@@ -1,0 +1,6 @@
+this is my first git project
+git we used to store the programes
+Git has very importent for devops
+git has to used every develpers
+Git is local reposi
+git has add commit push pull fetch clone commands 
