@@ -1,0 +1,3 @@
+hi thisis git 
+git has four main commands 
+
